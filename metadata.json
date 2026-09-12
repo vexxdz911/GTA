@@ -1,0 +1,7 @@
+{
+  "name": "GTA Server",
+  "description": "Live GTA server hub featuring a player achievements & badge milestone system, referral and verification rewards, GTA 6 Day-1 Launch Monetization & Revenue Engine, custom vehicles and properties, career roles, dynamic economy, and live CAD-MDT dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
